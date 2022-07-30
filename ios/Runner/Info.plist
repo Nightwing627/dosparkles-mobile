@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>BGTaskSchedulerPermittedIdentifiers</key>
+		<array>
+			<string>com.floridainc.dosparkles</string>
+		</array>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>$(DEVELOPMENT_LANGUAGE)</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleLocalizations</key>
+		<array>
+			<string>en</string>
+			<string>pt</string>
+			<string>es</string>
+			<string>ja</string>
+			<string>zh</string>
+		</array>
+		<key>CFBundleName</key>
+		<string>Sparkles</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(FLUTTER_BUILD_NAME)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleURLTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>fb1103273433496519</string>
+				</array>
+			</dict>
+			<dict>
+				<key>CFBundleTypeRole</key>
+				<string>Editor</string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>com.googleusercontent.apps.291190415379-9emm74ks01oadhqmv35vlj1tlti4d247</string>
+				</array>
+			</dict>
+		</array>
+		<key>CFBundleVersion</key>
+		<string>$(CURRENT_PROJECT_VERSION)</string>
+		<key>FDAllFilesDownloadedMessage</key>
+		<string>All files have been downloaded</string>
+		<key>FacebookAppID</key>
+		<string>1103273433496519</string>
+		<key>FacebookDisplayName</key>
+		<string>Sparkles</string>
+		<key>FirebaseAppDelegateProxyEnabled</key>
+		<false />
+		<key>GADApplicationIdentifier</key>
+		<string>ca-app-pub-8117211796129035~962515483</string>
+		<key>ITSAppUsesNonExemptEncryption</key>
+		<false />
+		<key>LSApplicationQueriesSchemes</key>
+		<array>
+			<string>fbapi</string>
+			<string>fbapi20130214</string>
+			<string>fbapi20130410</string>
+			<string>fbapi20130702</string>
+			<string>fbapi20131010</string>
+			<string>fbapi20131219</string>
+			<string>fbapi20140410</string>
+			<string>fbapi20140116</string>
+			<string>fbapi20150313</string>
+			<string>fbapi20150629</string>
+			<string>fbapi20160328</string>
+			<string>fbauth</string>
+			<string>fb-messenger-share-api</string>
+			<string>fbauth2</string>
+			<string>fbshareextension</string>
+		</array>
+		<key>LSRequiresIPhoneOS</key>
+		<true />
+		<key>NSAppTransportSecurity</key>
+		<dict>
+			<key>NSAllowsArbitraryLoads</key>
+			<true />
+		</dict>
+		<key>NSAppleMusicUsageDescription</key>
+		<string>test</string>
+		<key>NSCalendarsUsageDescription</key>
+		<string>required for scheduling drives</string>
+		<key>NSCameraUsageDescription</key>
+		<string>use camera for scan credit card</string>
+		<key>NSContactsUsageDescription</key>
+		<string>This app requires contacts access to function properly.</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>test</string>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>test</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>use mic for get sound</string>
+		<key>NSMotionUsageDescription</key>
+		<string>test</string>
+		<key>NSPhotoLibraryAddUsageDescription</key>
+		<string>share to other</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>share to other</string>
+		<key>NSSpeechRecognitionUsageDescription</key>
+		<string>test</string>
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>fetch</string>
+			<string>processing</string>
+			<string>remote-notification</string>
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIMainStoryboardFile</key>
+		<string>Main</string>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationPortraitUpsideDown</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<false />
+		<key>URL Types</key>
+		<array>
+			<dict>
+				<key>URL Schemes</key>
+				<array>
+					<string>ku5t1</string>
+				</array>
+			</dict>
+		</array>
+		<key>branch_key</key>
+		<string>key_live_gj9nHuwAaxCNWMtQyhUmzkibrqnt8R1B</string>
+		<key>branch_universal_link_domains</key>
+		<array>
+			<string>ku5t1.test-app.link</string>
+			<string>ku5t1-alternate.test-app.link</string>
+			<string>ku5t1.app.link</string>
+			<string>ku5t1-alternate.app.link</string>
+		</array>
+		<key>io.flutter.embedded_views_preview</key>
+		<true />
+	</dict>
+</plist>

@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "291190415379",
+    "project_id": "sparkles-108f3",
+    "storage_bucket": "sparkles-108f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291190415379:android:e7bf2e75ce57ced3861fe6",
+        "android_client_info": {
+          "package_name": "com.floridainc.dosparkles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291190415379-24bdfbf2g1ir5h1skrtlb80nftmcsghj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.floridainc.dosparkles",
+            "certificate_hash": "a405f767379780e16df8075151af3d683f91b9a3"
+          }
+        },
+        {
+          "client_id": "291190415379-bbd4d9bj5cs1rlk7t7hpoal70a5ee9n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.floridainc.dosparkles",
+            "certificate_hash": "c522f565d620ea1e51d579d28057e37d56222aa8"
+          }
+        },
+        {
+          "client_id": "291190415379-sln0ide7cuqrlm5qr04043i8jq8ie1jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS53YzhCyI0ZdDnScYXe0sT-MH8AeLMz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291190415379-sln0ide7cuqrlm5qr04043i8jq8ie1jp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291190415379-9emm74ks01oadhqmv35vlj1tlti4d247.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.floridainc.dosparkles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
